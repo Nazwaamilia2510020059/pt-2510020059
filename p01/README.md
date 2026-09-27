@@ -1,0 +1,2 @@
+# Deklarasi AI
+AI digunakan sebagai bantuan dalam memahami materi, menjelaskan langkah pengerjaan, dan membantu debugging kode. Saya masih belum sepenuhnya memahami materi pemrograman, sehingga AI digunakan untuk membantu menjelaskan bagian yang belum saya pahami. Saya tetap mempelajari dan mencoba memahami setiap langkah pengerjaan.
