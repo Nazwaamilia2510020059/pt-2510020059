@@ -1,2 +1,3 @@
 # Deklarasi AI
-AI digunakan sebagai bantuan dalam memahami materi, menjelaskan langkah pengerjaan, dan membantu debugging kode. Saya masih belum sepenuhnya memahami materi pemrograman, sehingga AI digunakan untuk membantu menjelaskan bagian yang belum saya pahami. Saya tetap mempelajari dan mencoba memahami setiap langkah pengerjaan.
+AI yang digunakan: ChatGPT.
+AI digunakan untuk membantu memahami materi, menjelaskan langkah pengerjaan, dan membantu debugging kode setelah saya mencoba mengerjakannya terlebih dahulu.Hasil bantuan AI saya periksa kembali dengan menjalankan program, membaca pesanerror dari compiler, dan membandingkan hasil program dengan keluaran yangdiharapkan pada modul.
