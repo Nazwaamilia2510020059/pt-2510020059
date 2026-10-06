@@ -11,3 +11,6 @@ Pada P03, saya menggunakan ChatGPT untuk membantu memahami materi operator aritm
 
 Pemeriksaan Hasil AI
 Setelah mendapat bantuan dari ChatGPT, saya tetap mencoba menjalankan program sendiri di VS Code dan membandingkan hasilnya dengan yang ada di modul. Jika terdapat error, saya melihat pesan dari compiler dan mencoba memperbaikinya kembali.
+
+P04 
+Pada P04 ini saya menggunakan ChatGPT untuk membantu mengerjakan program SiNilai v0.3, terutama pada bagian TODO untuk menentukan huruf mutu, status kelulusan, dan keterangan. Saya juga menggunakan ChatGPT untuk memahami cara kerja if-else bertingkat, bool, dan switch pada program tersebut.
