@@ -14,3 +14,14 @@ Setelah mendapat bantuan dari ChatGPT, saya tetap mencoba menjalankan program se
 
 P04 
 Pada P04 ini saya menggunakan ChatGPT untuk membantu mengerjakan program SiNilai v0.3, terutama pada bagian TODO untuk menentukan huruf mutu, status kelulusan, dan keterangan. Saya juga menggunakan ChatGPT untuk memahami cara kerja if-else bertingkat, bool, dan switch pada program tersebut.
+
+p05
+AI yang digunakan: ChatGPT
+
+Prompt yang digunakan:
+“Jelaskan cara mengerjakan TODO pada program SiNilai v0.4 menggunakan perulangan do-while dan for.”
+“Bantu periksa bagian perulangan, perhitungan total nilai, jumlah mahasiswa yang lulus, dan rekap nilai.”
+“Bantu mengatasi error saat menjalankan compiler C++ di Git Bash.”
+
+Umpan balik dan evaluasi AI:
+AI membantu menjelaskan urutan pengerjaan TODO, memberikan contoh kode, serta membantu memahami cara menjalankan program melalui terminal. Saya memeriksa dan menerapkan saran tersebut pada kode program, kemudian mencoba menjalankan program untuk menguji hasilnya.
