@@ -25,3 +25,10 @@ Prompt yang digunakan:
 
 Umpan balik dan evaluasi AI:
 AI membantu menjelaskan urutan pengerjaan TODO, memberikan contoh kode, serta membantu memahami cara menjalankan program melalui terminal. Saya memeriksa dan menerapkan saran tersebut pada kode program, kemudian mencoba menjalankan program untuk menguji hasilnya.
+
+p06
+Label AI: 1
+Alat: ChatGPT
+Untuk apa: Membantu memahami materi perulangan bersarang, penggunaan break dan continue, serta pengerjaan TODO pada program SiNilai v0.5, terutama dalam perhitungan rata-rata kelas, nilai tertinggi, dan sebaran huruf mutu.
+
+Cara memeriksanya: Memeriksa kembali kode program, menjalankan program menggunakan data dari contoh_masukan.txt, dan mencocokkan hasil keluaran dengan contoh pada modul praktikum.
